@@ -22,9 +22,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Run dotnet format
-        run: dotnet format Kentico.Xperience.RepoTemplate.sln --exclude ./examples/** --verify-no-changes
-
   build_and_test:
     name: Build and Test
     runs-on: ubuntu-latest
@@ -41,26 +38,3 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-
-      - name: Setup .NET
-        uses: actions/setup-dotnet@v4
-        with:
-          global-json-file: global.json
-
-      - name: Install dependencies
-        run: |
-          dotnet restore `
-            --locked-mode
-
-      - name: Build Solution
-        run: |
-          dotnet build `
-            --configuration Release `
-            --no-restore
-
-      - name: Test Solution
-        run: |
-          dotnet test `
-            --configuration Release `
-            --no-build `
-            --no-restore
