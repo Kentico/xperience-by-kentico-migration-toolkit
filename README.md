@@ -6,7 +6,7 @@
 
 This repository is a "meta-repository" used to reference and describe the various tools of the Migration Toolkit. Each tool is maintained in its own GitHub repository.
 
-The Xperience by Kentico Migration Toolkit is a set of tools designed to help teams migrate content from a variety of data sources into Xperience by Kentico solutions.
+The [Xperience by Kentico Migration Toolkit](https://docs.kentico.com/x/migration_toolkit_xp) is a set of tools designed to help teams migrate content from a variety of data sources into Xperience by Kentico solutions.
 
 These tools help automate the transfer of content and data from various data sources into Xperience by Kentico through simple configuration. Each tool is provided as an open-source fully supported and documented integration on GitHub.
 
