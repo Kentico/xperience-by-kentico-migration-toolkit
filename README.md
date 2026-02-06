@@ -41,6 +41,6 @@ Distributed under the MIT License. See [`LICENSE.md`](./LICENSE.md) for more inf
 
 This project has **Kentico Labs limited support**.
 
-See [`SUPPORT.md`](https://github.com/Kentico/.github/blob/main/SUPPORT.md#full-support) for more information.
+See [`SUPPORT.md`](https://github.com/Kentico/.github/blob/main/SUPPORT.md#labs-limited-support) for more information.
 
 For any security issues see [`SECURITY.md`](https://github.com/Kentico/.github/blob/main/SECURITY.md).
