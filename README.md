@@ -16,12 +16,10 @@ Our goal with the Migration Toolkit is <em>not</em> to cover 100% of content and
 
 Each of the tools in the Xperience by Kentico Migration Toolkit are linked and described in the table below.
 
-| Name                                                                                                   | Description                                                                                                  |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
-| [Kentico Migration Tool](https://github.com/Kentico/xperience-by-kentico-kentico-migration-tool)       | A customizable tool that migrates older **Kentico** solutions to the latest version of Xperience by Kentico. |
-| [Sitecore Migration Tool](https://github.com/Kentico/xperience-by-kentico-sitecore-migration-tool)     | A customizable tool that migrates **Sitecore** solutions to Xperience by Kentico.                            |
-| [Sitefinity Migration Tool](https://github.com/Kentico/xperience-by-kentico-sitefinity-migration-tool) | A customizable tool that migrates **Sitefinity** solutions to Xperience by Kentico.                          |
-| [Universal Migration Tool](https://github.com/Kentico/xperience-by-kentico-universal-migration-tool)   | Underlying technology to enable content and data imports from **any data source** into Xperience by Kentico. |
+| Name                                                                                                 | Description                                                                                                  |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| [Kentico Migration Tool](https://github.com/Kentico/xperience-by-kentico-kentico-migration-tool)     | A customizable tool that migrates older **Kentico** solutions to the latest version of Xperience by Kentico. |
+| [Universal Migration Tool](https://github.com/Kentico/xperience-by-kentico-universal-migration-tool) | Underlying technology to enable content and data imports from **any data source** into Xperience by Kentico. |
 
 [![Xperience by Kentico Migration Toolkit](/images/xperience-by-kentico-migration-toolkit-embedded.jpg)](/images/xperience-by-kentico-migration-toolkit-embedded.jpg)
 
